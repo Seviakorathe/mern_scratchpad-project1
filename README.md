@@ -8,7 +8,7 @@
 -npm run build
 
 3. Start the app
--npm run start
+-npm run start:prod
 
 
 
