@@ -1,14 +1,1 @@
-1. Setup .env file
-
--MONGO_URI=your_mongo_uri
--PORT=5000
-
-
-2 . Run this app locally
--npm run build
-
-3. Start the app
--npm run start:prod
-
-
-
+# mern_scratchpad-project1
