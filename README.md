@@ -1,5 +1,5 @@
 1. Setup .env file
-- MONGO_URI=your_mongo_uri
+-MONGO_URI=mongodb+srv://<username>:<password>@cluster0.rlg4c.mongodb.net/scratchpads?retryWrites=true&w=majority&appName=Cluster0
 PORT=5000
 
 2. Run this app locally
